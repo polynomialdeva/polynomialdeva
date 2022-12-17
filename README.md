@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio, general engineering and programming skills.
+- 🔭 I’m currently working on my portfolio, and some general engineering + programming skills.
 - 🌱 I’m currently learning Java, C and C++.
 - 📫 How to reach me: s5#2707 on Discord
 
